@@ -1,0 +1,3 @@
+dist/*
+build/*
+gmm_uniform.egg-info/*
