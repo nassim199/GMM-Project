@@ -1,1 +1,1 @@
-from GMM import GMM_Clustering
+from .GMM import GMM_Uniform, auto_gmm
